@@ -44,7 +44,7 @@ import org.apache.maven.project.MavenProject;
  * Classify current platform.
  *
  * @author Yegor Bugayenko (yegor@tpc2.com)
- * @version $Id$
+ * @version $Id: ab47fe8b7c18672697c868bd5bec81773933bd5f $
  * @since 0.1
  */
 @ToString

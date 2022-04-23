@@ -32,7 +32,7 @@
  * MySQL Maven plugin, tests.
  *
  * @author Yegor Bugayenko (yegor@tpc2.com)
- * @version $Id$
+ * @version $Id: 65f23db20105c969b178354356f4191ec2f017d4 $
  * @since 0.4
  */
 package com.jcabi.mysql.maven.plugin;

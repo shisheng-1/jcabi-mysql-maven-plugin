@@ -38,7 +38,7 @@ import java.net.Socket;
  *
  * <p>The class is thread-safe.
  * @author Christian Redl (github@xresearch.net)
- * @version $Id$
+ * @version $Id: 3327d7b73e00b14163284432c64fe93a72d21d87 $
  * @since 0.6
  */
 final class SocketHelper {

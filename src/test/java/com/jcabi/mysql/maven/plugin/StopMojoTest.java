@@ -34,7 +34,7 @@ import org.junit.Test;
 /**
  * Test case for {@link StopMojo} (more detailed test is in maven invoker).
  * @author Yegor Bugayenko (yegor@tpc2.com)
- * @version $Id$
+ * @version $Id: deb80fc09dc2519a67d20fbc17d0d629eb85320d $
  * @since 0.6
  */
 public final class StopMojoTest {

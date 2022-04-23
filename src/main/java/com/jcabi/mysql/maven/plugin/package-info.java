@@ -40,7 +40,7 @@
  * &lt;/dependency&gt;</pre>
  *
  * @author Yegor Bugayenko (yegor@tpc2.com)
- * @version $Id$
+ * @version $Id: c4d5f45712a8375755074d4fc968b341887fdccd $
  * @since 0.4
  * @see <a href="http://www.jcabi.com/jcabi-mysql-maven-plugin">project website</a>
  */

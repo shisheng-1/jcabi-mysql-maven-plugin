@@ -39,7 +39,7 @@ import org.apache.maven.plugins.annotations.Mojo;
 /**
  * Starts MySQL.
  * @author Yegor Bugayenko (yegor@tpc2.com)
- * @version $Id$
+ * @version $Id: c4c8ef6eed5177f413adc8fad97b483359a4fea3 $
  * @since 0.1
  */
 @ToString

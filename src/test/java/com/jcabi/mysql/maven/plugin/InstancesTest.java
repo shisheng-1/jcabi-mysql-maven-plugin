@@ -44,7 +44,7 @@ import org.junit.Test;
 /**
  * Test case for {@link Instances}.
  * @author Yegor Bugayenko (yegor@tpc2.com)
- * @version $Id$
+ * @version $Id: 45787dc642d6a6b65453368e486eb2db74d91398 $
  * @checkstyle ClassDataAbstractionCoupling (500 lines)
  * @checkstyle MultipleStringLiterals (500 lines)
  * @since 0.6

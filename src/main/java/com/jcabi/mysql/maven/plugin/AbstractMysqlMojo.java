@@ -45,7 +45,7 @@ import org.slf4j.impl.StaticLoggerBinder;
 /**
  * Abstract MOJO.
  * @author Yegor Bugayenko (yegor@tpc2.com)
- * @version $Id$
+ * @version $Id: d4018f4e5006b6fc221947d8838f06aa50ee3b24 $
  * @since 0.1
  */
 @ToString

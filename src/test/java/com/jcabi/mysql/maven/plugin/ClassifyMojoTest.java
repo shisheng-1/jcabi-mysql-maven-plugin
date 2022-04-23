@@ -39,7 +39,7 @@ import org.mockito.Mockito;
 /**
  * Test case for {@link ClassifyMojo} (more detailed test is in maven invoker).
  * @author Yegor Bugayenko (yegor@tpc2.com)
- * @version $Id$
+ * @version $Id: 1ccf2a53ec2fef18825d31031f42712ff2286d4c $
  * @since 0.6
  */
 public final class ClassifyMojoTest {

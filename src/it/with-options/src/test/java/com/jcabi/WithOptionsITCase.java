@@ -37,7 +37,7 @@ import org.junit.Test;
 /**
  * Test case for {@link Foo}.
  * @author Yegor Bugayenko (yegor@tpc2.com)
- * @version $Id$
+ * @version $Id: 435f4739fd880d0ddd9b1a07f841142705092243 $
  * @since 1.0
  */
 public final class WithOptionsITCase {

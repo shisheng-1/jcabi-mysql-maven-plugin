@@ -41,7 +41,7 @@ import org.apache.maven.plugins.annotations.Mojo;
 /**
  * Run MySQL in background and don't stop it when Maven is finished.
  * @author Yegor Bugayenko (yegor@tpc2.com)
- * @version $Id$
+ * @version $Id: 2c8cb640165fb820f3bf963f82afbe77a44ace0d $
  * @since 0.4
  */
 @ToString

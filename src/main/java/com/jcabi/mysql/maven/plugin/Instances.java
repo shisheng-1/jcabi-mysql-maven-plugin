@@ -57,7 +57,7 @@ import org.apache.commons.lang3.StringUtils;
  *
  * <p>The class is thread-safe.
  * @author Yegor Bugayenko (yegor@tpc2.com)
- * @version $Id$
+ * @version $Id: d13507ef5282348495916c13f7d134d783d54a29 $
  * @checkstyle ClassDataAbstractionCoupling (500 lines)
  * @checkstyle MultipleStringLiterals (500 lines)
  * @since 0.1

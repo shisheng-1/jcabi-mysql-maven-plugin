@@ -40,7 +40,7 @@ import lombok.ToString;
  * Contains configuration for particular db instance {@link Instances}
  *
  * @author Paul Polischuk (ppol@ua.fm)
- * @version $Id$
+ * @version $Id: 501cc0b7f9f599784e51436b53da0f362ec11915 $
  * @since 0.6
  */
 @ToString

@@ -32,7 +32,7 @@
  * Mysql maven plugin, integration tests.
  *
  * @author Paul Polishchuk (ppol@ua.fm)
- * @version $Id$
+ * @version $Id: 929ea2073b5ca8e1e070931881ef12c0a69fa792 $
  * @since 0.4
  * @see <a href="http://www.jcabi.com/jcabi-mysql-maven-plugin">project website</a>
  */

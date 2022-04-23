@@ -188,10 +188,11 @@
                 <plugin>
                     <artifactId>maven-surefire-plugin</artifactId>
                     <configuration>
-                        <parallel>none</parallel>
+                        <parallel>classes</parallel>
                         <systemPropertyVariables>
                             <surefire.dist>${project.build.directory}/mysql-dist</surefire.dist>
                         </systemPropertyVariables>
+                    	<useUnlimitedThreads>true</useUnlimitedThreads>
                     </configuration>
                 </plugin>
             </plugins>

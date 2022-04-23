@@ -37,7 +37,7 @@ import org.junit.Test;
 /**
  * Test case for {@link Parallel}.
  * @author Yegor Bugayenko (yegor@tpc2.com)
- * @version $Id$
+ * @version $Id: 66ee64c2d17f35b4c2adb52bd6b5d9de3b9010a1 $
  * @since 1.0
  */
 public final class ParallelITCase {

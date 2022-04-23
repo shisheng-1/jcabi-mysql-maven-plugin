@@ -34,7 +34,7 @@ import org.junit.Test;
 /**
  * Test case for {@link StartMojo} (more detailed test is in maven invoker).
  * @author Yegor Bugayenko (yegor@tpc2.com)
- * @version $Id$
+ * @version $Id: 60abb3966f6c91eb63152f48b97122610d59dbdd $
  * @since 0.6
  */
 public final class StartMojoTest {

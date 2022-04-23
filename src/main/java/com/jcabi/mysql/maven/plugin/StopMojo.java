@@ -39,7 +39,7 @@ import org.apache.maven.plugins.annotations.Mojo;
  * Stops MySQL.
  *
  * @author Yegor Bugayenko (yegor@tpc2.com)
- * @version $Id$
+ * @version $Id: 267971766083c9bb34f1f50b23ab6236ca7b6817 $
  * @since 0.1
  */
 @ToString
